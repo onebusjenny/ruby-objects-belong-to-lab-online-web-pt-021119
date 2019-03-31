@@ -5,7 +5,7 @@ class Artist
     @name = name
     @genre = genre
   end
- beyonce = Artist.new("Beyonce")
+
 end
  
 
