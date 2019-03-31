@@ -7,5 +7,5 @@ class Artist
   end
  
 end
- artist = Artist.new
-    artist.name = "Beyonce" 
+ drake = Artist.new("Drake", "rap")
+hotline_bling = Song.new("Hotline Bling")
